@@ -1,0 +1,6 @@
+{
+  "name": "AutoEarn AI Studio",
+  "description": "Elite Autonomous Self-Evolving AI Agent OS and monetization content studio for creators and freelancers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
